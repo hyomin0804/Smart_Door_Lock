@@ -2,7 +2,7 @@
 
 ### **Smart Door Lock System with Raspberry Pi (얼굴 인식 스마트 도어락 시스템)**
 
-<img src="../images/README/image-20231204014332814.png" alt="image-20231204014332814" style="zoom:25%;" />
+<img src="https://github.com/hyomin0804/Smart_Door_Lock/assets/87791247/73e1b39d-52e1-4320-b4ef-5b2a4a78f504" alt="image" style="zoom:33%;" />
 
 그림1. 스마트 도어락 실물 완성본
 
