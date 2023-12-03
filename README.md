@@ -2,7 +2,7 @@
 
 ### **Smart Door Lock System with Raspberry Pi (얼굴 인식 스마트 도어락 시스템)**
 
-<img src="https://github.com/hyomin0804/Smart_Door_Lock/assets/87791247/73e1b39d-52e1-4320-b4ef-5b2a4a78f504" alt="image" width="200" />
+<img src="https://github.com/hyomin0804/Smart_Door_Lock/assets/87791247/73e1b39d-52e1-4320-b4ef-5b2a4a78f504" alt="image" width=50% />
 
 그림1. 스마트 도어락 실물 완성본
 
@@ -10,7 +10,7 @@
 
 #### <동작 영상>
 
-<video src="https://github.com/hyomin0804/Smart_Door_Lock/assets/87791247/8ab87a87-9a0c-41ca-8ae9-08a353e3228" width="200"></video>
+<video src="https://github.com/hyomin0804/Smart_Door_Lock/assets/87791247/8ab87a87-9a0c-41ca-8ae9-08a353e3228" width=50%></video>
 
 
 #### 개발 배경: 기존 도어락의 문제점
@@ -31,16 +31,16 @@
 
    : 핸드폰으로 방문자를 쉽게 파악하고 어디서든 문을 원격으로 열어줄 수 있는 기능 필요
 
-<img src="https://github.com/hyomin0804/Smart_Door_Lock/assets/87791247/edb80fcb-6cab-4ae5-8e68-ae03376649b0" style="zoom:15%;" />
+<img src="https://github.com/hyomin0804/Smart_Door_Lock/assets/87791247/edb80fcb-6cab-4ae5-8e68-ae03376649b0" width=50% />
 
 
 
 
-<img src="https://github.com/hyomin0804/Smart_Door_Lock/assets/87791247/e7191364-2b94-43ed-bef7-93c91f46b376" alt="image" style="zoom:15%;" />
+<img src="https://github.com/hyomin0804/Smart_Door_Lock/assets/87791247/e7191364-2b94-43ed-bef7-93c91f46b376" alt="image" width=50% />
 
 그림2. 스마트 도어락 예상 모식도
 
-<img src="../images/README/image-20231204021557465.png" alt="image-20231204021557465" style="zoom:20%;" />
+<img src="https://github.com/hyomin0804/Smart_Door_Lock/assets/87791247/a5a98180-5809-4275-9cd8-3ebe96462462" alt="image-20231204021557465" width=50%/>
 
 그림3. 회로도
 
@@ -63,5 +63,5 @@
 
 #### 전체 플로우 차트
 
-<img src="../images/README/image-20231204021803351.png" alt="image-20231204021803351" style="zoom:33%;" />
+<img src="https://github.com/hyomin0804/Smart_Door_Lock/assets/87791247/5aedd661-83e2-4277-b775-5b4169a9bb7b" width=50% />
 
